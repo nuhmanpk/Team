@@ -10,6 +10,7 @@ The developer team is a community for supporting developers and their projects. 
 
 - [Fayas Noushad](https://github.com/FayasNoushad)
 - [Vishal](https://github.com/MrVishal2K2)
+- [Rohithaditya](https://github.com/Rohith-sreedharan)
 - [Heiman](https://github.com/HeimanPictures)
 - [Muhammed Fazin EK](https://github.com/M-fazin)
 
