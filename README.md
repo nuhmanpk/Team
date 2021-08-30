@@ -8,6 +8,8 @@ The developer team is a community around the world for supporting developers and
 
 ---
 
+<img alt="TheDeveloperTeam" align="right" height="170" src="https://avatars.githubusercontent.com/u/85485190?s=200&v=4"/>
+
 **The Developer Team Members:**
 
 - [Fayas Noushad](https://github.com/FayasNoushad)
