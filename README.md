@@ -20,6 +20,4 @@ The developer team is a community around the world for supporting developers and
 
 ---
 
-> **Note:** Do you need to join on [TheDeveloperTeam](https://github.com/orgs/TheDeveloperTeam/teams/developer-team)? Then active on [This Organization](https://github.com/TheDeveloperTeam) or [Telegram group](https://telegram.me/TheDeveloperTeam) and support good developers.
-
----
+> Note: If you want to add your name. Then please join on [Developer Team](https://github.com/TheDeveloperTeam) via [support](https://github.com/TheDeveloperTeam/support) and fork this repository then edit and make a pull request.
