@@ -20,6 +20,6 @@ The developer team is a community around the world for supporting developers and
 
 ---
 
-> **Note:** Do you need to join on [TheDeveloperTeam](https://github.com/orgs/TheDeveloperTeam/teams/developer-team)? Then active on [Telegram group](https://telegram.me/TheDeveloperTeam) and support good developers.
+> **Note:** Do you need to join on [TheDeveloperTeam](https://github.com/orgs/TheDeveloperTeam/teams/developer-team)? Then active on [This Organization](https://github.com/TheDeveloperTeam) or [Telegram group](https://telegram.me/TheDeveloperTeam) and support good developers.
 
 ---
