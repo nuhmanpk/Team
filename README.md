@@ -12,6 +12,7 @@ The developer team is a community around the world for supporting developers and
 
 - [Fayas Noushad](https://github.com/FayasNoushad)
 - [Nuhman Pk](https://github.com/bughunter0)
+- [Muhammed Fazin EK](https://github.com/M-fazin)
 
 ---
 
